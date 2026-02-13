@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor)
 
+
 </div>
 <p align="center">  
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ICT+Teacher/Instructor;Cyber+Security+Researcher;Developer;IT+Administrator;Blogger;Always+learning+new+things&center=true&width=700&height=70"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;3D+&+2D+Animator;Game+Developer;Always+learning+new+things&center=true&width=700&height=70"></a>
 </p>
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 
 ## 👾 Interests
 - Video games and game development
