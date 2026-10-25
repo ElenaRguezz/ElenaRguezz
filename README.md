@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 </div>
 <p align="center">  
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;3D+and+2D+Animator;Game+Developer&center=true&width=700&height=70"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Gamer+Designer;3D+and+2D+Animator;Game+Developer&center=true&width=700&height=70"></a>
 </p>
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
@@ -86,6 +86,3 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
